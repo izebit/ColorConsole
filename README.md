@@ -4,7 +4,7 @@ ColorConsole
 Colorful console for Mac OS X
 
 ##Installation
-- You need ```ls``` from the GNU coreutils package (You can install it using ```brew````)
+- You need ```ls``` from the GNU coreutils package (You can install it using ```brew```)
 - Copy the "colors" file to your home directory
 - Rename it to .colors"
 - Edit your ".profile" or ".bash_profile" file and add the folowing lines
